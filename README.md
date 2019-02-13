@@ -1,6 +1,11 @@
 # Cyber-and-Information-security-in-R
 Cyber and Information security in R by Joel Aviad Ossi
 
+*Note:* Not all files are contained within this repository due to file size limit on GitHub, To download the missing files of this R project you can get it from this URL: https://www.upload.ee/files/9566367/Cyber_and_Information_security_in_R_-_Missing_Resources.rar.html
+
+
+
+============================
 EDGAR Log File Data set
 
 The Division of Economic and Risk Analysis (DERA) has assembled information on internet search traffic for
