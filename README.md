@@ -5,9 +5,9 @@ Cyber and Information security in R by Joel Aviad Ossi
 
 
 
-============================
-Below Source is from: https://www.sec.gov/dera/data/edgar-log-file-data-set.html
-============================
+ --------------------------------------------------------------------------------
+Below Source comes from: https://www.sec.gov/dera/data/edgar-log-file-data-set.html
+ --------------------------------------------------------------------------------
 
 EDGAR Log File Data set
 
