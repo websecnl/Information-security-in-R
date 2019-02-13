@@ -7,6 +7,10 @@ Cyber and Information security in R by Joel Aviad Ossi
 
 ============================
 
+Below Source is from: https://www.sec.gov/dera/data/edgar-log-file-data-set.html
+
+============================
+
 EDGAR Log File Data set
 
 The Division of Economic and Risk Analysis (DERA) has assembled information on internet search traffic for
